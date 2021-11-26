@@ -1,0 +1,93 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    
+}
+
+.head1 {
+    text-align: center;
+    font-size: 2.1rem;
+    color: rgb(211, 56, 89);    
+    text-decoration-style: double;
+    text-decoration-color: crimson;
+    letter-spacing: 5px;
+   
+}
+.head1 a {
+    color: rgb(170, 41, 41);
+    text-decoration-color: crimson;
+    text-decoration: none;
+}
+/* Navbar */
+.nav-bar {
+    text-align:center;
+    width: 500px;
+    margin: 50px auto;
+    border-radius: 4px;
+}
+
+.nav-bar ul li{
+    display:inline-block;
+    text-align: center;
+}
+.nav-bar ul li a {
+    font-size: 1.2rem;
+    padding:0 15px;
+    text-decoration: underline;
+    color: rgb(90, 32, 197);
+}
+.nav-bar ul li a:hover {
+    color: rgb(226, 32, 32);
+}
+/* h2 */
+h2{
+    text-align: center;
+    color: rgb(65, 8, 170);
+    font-size: 1.2rem;
+    letter-spacing: 2px;
+}
+/* İndex Content */
+
+.index-p p {
+    font-size: 1.2rem;
+    text-align: center;
+}
+.co {
+    color: rgb(104, 119, 35);
+}
+.U {
+    text-align: center;
+    list-style-type: none;
+}
+/* products */
+.pro {
+text-align: center;
+list-style-position: inside;
+}
+
+.pro img {
+    height: 220px;
+}
+.pro p {
+    font-size: 1.3rem;
+    letter-spacing: 2px;
+    text-decoration: none;
+}
+.pro {
+    border: none;
+    width: 550px;
+    overflow: hidden;
+    margin: 50px auto;
+}
+
+/* about-us*/
+.about {
+    font-size: 1.1rem;
+}
+.about h3 {
+    font-size: 1.2rem;
+    text-decoration: none;
+    letter-spacing: 2px;
+    color: rgb(104, 119, 35);
+}
+
+
